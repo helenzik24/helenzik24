@@ -76,22 +76,3 @@ Languages :
   </tr>
 </table>
 </div>
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/helenzik24/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=helenzik24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GitHub Stats"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/helenzik24/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenzik24&layout=compact&theme=buefy&hide_border=true" alt="Top Languages"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
